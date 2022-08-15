@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on back-end with nodeJs/typeScript
+- 🔭 I’m currently working on back-end using nodeJs/typeScript
 - 🌱 I’m currently learning tensorFlow, asterisk, nextJs
 - 💬 Ask me about anything and I'll try to help
 - 📫 How to reach me: jandersonrodriguesir@gmail.com
